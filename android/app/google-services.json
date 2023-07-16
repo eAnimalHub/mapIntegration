@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "350038577698",
+    "project_id": "mapintegration-c0832",
+    "storage_bucket": "mapintegration-c0832.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350038577698:android:079b58e0c20eaa9f69b07b",
+        "android_client_info": {
+          "package_name": "com.maptracking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "350038577698-lgm0uk7mq8riv9bepopr84oi3qfluq3r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDx7NWr8EbOSzqJ6JkWaLCabrnblIM1VGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "350038577698-lgm0uk7mq8riv9bepopr84oi3qfluq3r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
